@@ -1,31 +1,36 @@
+
+/*
 // 1. alert in Javascript
-// alert('I am learning Javascript')
-// alert('3...')
-// alert('2...')
-// alert('1...')
-// console.log('I learned some JS')
+alert('I am learning Javascript')
+alert('3...')
+alert('2...')
+alert('1...')
+console.log('I learned some JS')
 
 //2. declaring variables in javascript (var, let, const)
-// var message = "Hello!"
-// console.log(message)
+var message = "Hello!"
+console.log(message)
 
-// message = 'Goodbye!'
-// console.log(message)
+message = 'Goodbye!'
+console.log(message)
 
-// const mycontent = "Hello Students"
-// console.log(mycontent)
+const mycontent = "Hello Students"
+console.log(mycontent)
+*/
+
 
 /*not possible to changes 'const' variable
-// mycontent = "Goodbye Students"  // displays error!
-// console.log(mycontent) // displays error!*/
+ // mycontent = "Goodbye Students"  // displays error!
+ // console.log(mycontent) // displays error!*/
 
 
 //3. another example of declaring variables
-// score = 70
-// bonuspoint = 10
+score = 70
+bonuspoint = 10
 
-// finalscore = score + bonuspoint
-// console.log(finalscore)
+finalscore = score + bonuspoint
+console.log(finalscore)
+document.write(finalscore + " this is the result!")
 
 //4. another example of declaring variables
 // jhon_score = 70;
